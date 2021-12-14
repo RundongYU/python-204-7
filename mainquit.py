@@ -1,6 +1,10 @@
 import pygame as pg
-from source.main import main
+import main
 
-if __name__=='__main__':
-    main()
+if __name__=='__main__': # if game happen a bug 
+    main()                 # we just quit
     pg.quit()
+
+# we hope this works
+# yours
+# YU & Zhang & LI & Bao

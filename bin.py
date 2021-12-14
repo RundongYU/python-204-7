@@ -11,3 +11,7 @@ elif ((Rxy & Txy) | (Pxy & Pxy & Txy) | (Cxy & Txy)) is True:
 elif (Pxy & Fxy) is True:
     Qxy = Qxy & Qxy
     Qxy = True
+
+# we hope this works
+# yours
+# YU & Zhang & LI & Bao
